@@ -4,6 +4,11 @@ Description:
 
   The generator takes one argument which will be the name of the layout and stylesheet files. If no argument is passed then it defaults to "application".
 
+Installation:
+
+gem "safari_layout"    to your gem file and bundle install.
+
+
 Examples:
 
     rails generate safari:layout

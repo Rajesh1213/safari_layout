@@ -14,20 +14,21 @@ Examples:
     rails generate safari:layout
 
         Layout:     app/views/layouts/application.html.erb
-        Stylesheet: public/stylesheets/application.css
-        Helper:     app/helpers/layout_helper.rb
+        Stylesheet: app/assets/stylesheets/application.css
+        Javascript: app/assets/javascripts/application.js
 
 
     rails generate safari:layout admin
 
         Layout:     app/views/layouts/admin.html.erb
-        Stylesheet: public/stylesheets/admin.css
-        Helper:     app/helpers/layout_helper.rb
+        Stylesheet: app/assets/stylesheets/admin.css
+        Javascript: app/assets/javascripts/application.js
 
 
-rails g safari:layout
+<code> rails g safari:layout </code>
 
-rails g safari:layout any_name
+
+<code> rails g safari:layout any_name </code>
 
 
 https://rubygems.org/gems/safari_layout

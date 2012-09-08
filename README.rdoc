@@ -1,6 +1,6 @@
 Description:
   The safari_layout generator creates a basic layout, stylesheet and
-  helper which will give some structure to a starting Rails app.
+  helper which will give some structure to a starting Rails app. A simple Layout generator for rails application.
 
   The generator takes one argument which will be the name of the layout and stylesheet files. If no argument is passed then it defaults to "application".
 

@@ -6,7 +6,7 @@ Description:
 
 Installation:
 
-<pre> gem "safari_layout"    to your gem file and bundle install. </pre>
+<code> gem "safari_layout"    to your gem file and bundle install. </code>
 
 
 Examples:

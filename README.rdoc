@@ -22,13 +22,15 @@ Examples:
         Helper:     app/helpers/layout_helper.rb
 
 <code>
-<pre> 
+
 rails g safari:layout
-</pre>
+
 </code>
 
 <code>
-<pre> 
+
 rails g safari:layout any_name
-</pre>
+
 </code>
+
+https://rubygems.org/gems/safari_layout
